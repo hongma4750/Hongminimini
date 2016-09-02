@@ -10,5 +10,8 @@
 <%
 response.sendRedirect("./login.do");
 %>
+김봄이 테스트1
+김봄이 테스트2
+김봄이 테스트3
 </body>
 </html>
